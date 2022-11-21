@@ -1,0 +1,47 @@
+INFO:root:Бот стартовал
+INFO:apscheduler.scheduler:Scheduler started
+WARNING:telegram.vendor.ptb_urllib3.urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x10449ebf0>: Failed to establish a new connection: 0x02: Connection not allowed by ruleset')': /bot5530633401:AAFrloO-noNO137UXaMUh-fItKsq998lUzM/getMe
+WARNING:telegram.vendor.ptb_urllib3.urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x10449f100>: Failed to establish a new connection: 0x02: Connection not allowed by ruleset')': /bot5530633401:AAFrloO-noNO137UXaMUh-fItKsq998lUzM/getMe
+WARNING:telegram.vendor.ptb_urllib3.urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x10449f400>: Failed to establish a new connection: 0x02: Connection not allowed by ruleset')': /bot5530633401:AAFrloO-noNO137UXaMUh-fItKsq998lUzM/getMe
+INFO:root:Бот стартовал
+INFO:apscheduler.scheduler:Scheduler started
+WARNING:telegram.vendor.ptb_urllib3.urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x10f736bf0>: Failed to establish a new connection: 0x01: General SOCKS server failure')': /bot5530633401:AAFrloO-noNO137UXaMUh-fItKsq998lUzM/getMe
+WARNING:telegram.vendor.ptb_urllib3.urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x10f737130>: Failed to establish a new connection: 0x01: General SOCKS server failure')': /bot5530633401:AAFrloO-noNO137UXaMUh-fItKsq998lUzM/getMe
+WARNING:telegram.vendor.ptb_urllib3.urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x10f737430>: Failed to establish a new connection: 0x01: General SOCKS server failure')': /bot5530633401:AAFrloO-noNO137UXaMUh-fItKsq998lUzM/getMe
+INFO:root:Бот стартовал
+INFO:apscheduler.scheduler:Scheduler started
+WARNING:telegram.vendor.ptb_urllib3.urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x10456ebf0>: Failed to establish a new connection: 0x01: General SOCKS server failure')': /bot5530633401:AAFrloO-noNO137UXaMUh-fItKsq998lUzM/getMe
+WARNING:telegram.vendor.ptb_urllib3.urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x10456f130>: Failed to establish a new connection: 0x01: General SOCKS server failure')': /bot5530633401:AAFrloO-noNO137UXaMUh-fItKsq998lUzM/getMe
+WARNING:telegram.vendor.ptb_urllib3.urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x10456f430>: Failed to establish a new connection: 0x01: General SOCKS server failure')': /bot5530633401:AAFrloO-noNO137UXaMUh-fItKsq998lUzM/getMe
+INFO:root:Бот стартовал
+INFO:apscheduler.scheduler:Scheduler started
+WARNING:telegram.vendor.ptb_urllib3.urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x10f472bf0>: Failed to establish a new connection: 0x01: General SOCKS server failure')': /bot5530633401:AAFrloO-noNO137UXaMUh-fItKsq998lUzM/getMe
+WARNING:telegram.vendor.ptb_urllib3.urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x10f473130>: Failed to establish a new connection: 0x01: General SOCKS server failure')': /bot5530633401:AAFrloO-noNO137UXaMUh-fItKsq998lUzM/getMe
+WARNING:telegram.vendor.ptb_urllib3.urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x10f473430>: Failed to establish a new connection: 0x01: General SOCKS server failure')': /bot5530633401:AAFrloO-noNO137UXaMUh-fItKsq998lUzM/getMe
+INFO:root:Бот стартовал
+INFO:apscheduler.scheduler:Scheduler started
+WARNING:telegram.vendor.ptb_urllib3.urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x1029d2cb0>: Failed to establish a new connection: 0x01: General SOCKS server failure')': /bot5530633401:AAFrloO-noNO137UXaMUh-fItKsq998lUzM/getMe
+WARNING:telegram.vendor.ptb_urllib3.urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x1029d31f0>: Failed to establish a new connection: 0x01: General SOCKS server failure')': /bot5530633401:AAFrloO-noNO137UXaMUh-fItKsq998lUzM/getMe
+WARNING:telegram.vendor.ptb_urllib3.urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x1029d34f0>: Failed to establish a new connection: 0x01: General SOCKS server failure')': /bot5530633401:AAFrloO-noNO137UXaMUh-fItKsq998lUzM/getMe
+INFO:root:Бот стартовал
+INFO:apscheduler.scheduler:Scheduler started
+WARNING:telegram.vendor.ptb_urllib3.urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x1104d6cb0>: Failed to establish a new connection: 0x01: General SOCKS server failure')': /bot5530633401:AAFrloO-noNO137UXaMUh-fItKsq998lUzM/getMe
+WARNING:telegram.vendor.ptb_urllib3.urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x1104d71f0>: Failed to establish a new connection: 0x01: General SOCKS server failure')': /bot5530633401:AAFrloO-noNO137UXaMUh-fItKsq998lUzM/getMe
+WARNING:telegram.vendor.ptb_urllib3.urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x1104d74f0>: Failed to establish a new connection: 0x01: General SOCKS server failure')': /bot5530633401:AAFrloO-noNO137UXaMUh-fItKsq998lUzM/getMe
+INFO:root:Бот стартовал
+INFO:apscheduler.scheduler:Scheduler started
+INFO:telegram.ext.updater:Received signal 2 (SIGINT), stopping...
+INFO:apscheduler.scheduler:Scheduler has been shut down
+INFO:root:Бот стартовал
+INFO:apscheduler.scheduler:Scheduler started
+INFO:telegram.ext.updater:Received signal 2 (SIGINT), stopping...
+INFO:apscheduler.scheduler:Scheduler has been shut down
+INFO:root:Бот стартовал
+INFO:apscheduler.scheduler:Scheduler started
+WARNING:telegram.vendor.ptb_urllib3.urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x10f32acb0>: Failed to establish a new connection: 0x01: General SOCKS server failure')': /bot5530633401:AAFrloO-noNO137UXaMUh-fItKsq998lUzM/getMe
+WARNING:telegram.vendor.ptb_urllib3.urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x10f32b1f0>: Failed to establish a new connection: 0x01: General SOCKS server failure')': /bot5530633401:AAFrloO-noNO137UXaMUh-fItKsq998lUzM/getMe
+WARNING:telegram.vendor.ptb_urllib3.urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x10f32b4f0>: Failed to establish a new connection: 0x01: General SOCKS server failure')': /bot5530633401:AAFrloO-noNO137UXaMUh-fItKsq998lUzM/getMe
+INFO:root:Бот стартовал
+INFO:apscheduler.scheduler:Scheduler started
+INFO:telegram.ext.updater:Received signal 2 (SIGINT), stopping...
+INFO:apscheduler.scheduler:Scheduler has been shut down
